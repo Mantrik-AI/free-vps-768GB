@@ -1,4 +1,3 @@
-This is archived due to rep damage and other stuff--
 
 # Free VPS :
 **Your best free VPS**
@@ -39,6 +38,6 @@ This is archived due to rep damage and other stuff--
    ![Step 3: Run bash make](https://github.com/user-attachments/assets/38127672-c874-45cc-a109-fbf0789d9685)
 
 
-**Enjoy your high-performance Free VPS by MAntrik AI.! 🚀**
+**Enjoy your high-performance Free VPS by Bro Dev ! 🚀**
 
 **Note:** This is a forked repository of **https://github.com/PowerEdgeR710/free-poweredge**. 
