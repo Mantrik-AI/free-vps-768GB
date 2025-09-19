@@ -1,17 +1,17 @@
 This is archived due to rep damage and other stuff--
 
-# Free PowerEdge  (JOKE)
-**Your best free PowerEdge Service**
+# Free VPS :
+**Your best free VPS **
 
 ---
 
 ## 🚀 Benefits  
-- **Min 768GB RAM** and up to **16TB RAM**  
+- **Minimum 768GB RAM** and up to **16TB RAM**  
 - **AMD EPYC** and **Intel Xeon CPUs**  
-- **32GB Storage**  
+- **32GB of Storage**  
 - **Root Access**  
 - **24/7 Uptime**  
-- **Blazing Fast Performance**
+- **Fast Performance**
 
 ---
 
@@ -39,4 +39,6 @@ This is archived due to rep damage and other stuff--
    ![Step 3: Run bash make](https://github.com/user-attachments/assets/38127672-c874-45cc-a109-fbf0789d9685)
 
 
-**Enjoy your high-performance Free PowerEdge service! 🚀**
+**Enjoy your high-performance Free VPS by MAntrik AI.! 🚀**
+
+**Note:** This is a forked repository. 
