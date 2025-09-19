@@ -1,7 +1,7 @@
 This is archived due to rep damage and other stuff--
 
 # Free VPS :
-**Your best free VPS **
+**Your best free VPS**
 
 ---
 
@@ -41,4 +41,4 @@ This is archived due to rep damage and other stuff--
 
 **Enjoy your high-performance Free VPS by MAntrik AI.! 🚀**
 
-**Note:** This is a forked repository. 
+**Note:** This is a forked repository of **https://github.com/PowerEdgeR710/free-poweredge**. 
