@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Benefits  
-- **Minimum 768GB RAM** and up to **16TB RAM**  
+- **Minimum 754GB RAM** and up to **16TB RAM**  
 - **AMD EPYC** and **Intel Xeon CPUs**  
 - **32GB of Storage**  
 - **Root Access**  
